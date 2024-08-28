@@ -2,6 +2,7 @@
 export default defineNuxtConfig({
   compatibilityDate: '2024-04-03',
   app: {
-    baseURL: '/rent-chackboxes/'
+    baseURL: '/rent-checkboxes/',
+    buildAssetsDir: 'assets'
   }
 })
